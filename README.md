@@ -25,7 +25,7 @@ A simple and interactive web application built with React.js that helps users ca
 
 **Demo**
 
-You can check out the live demo of the project here (replace this with your actual link).
+You can check out the live demo of the project here `https://thisiskarthisk.github.io/emi-calculator`.
 
 
 **Installation**
@@ -37,7 +37,7 @@ You can check out the live demo of the project here (replace this with your actu
 
 **Steps to Run the Project Locally:**
 
-`git clone https://github.com/your-username/loan-emi-calculator.git`
+`git clone https://github.com/thisiskarthisk/emi-calculator.git`
 
 `cd loan-emi-calculator`
 
