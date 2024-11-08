@@ -25,7 +25,7 @@ A simple and interactive web application built with React.js that helps users ca
 
 **Demo**
 
-You can check out the live demo of the project here `https://thisiskarthisk.github.io/emi-calculator`.
+You can check out the live demo of the project here <a href="https://thisiskarthisk.github.io/emi-calculator">https://thisiskarthisk.github.io/emi-calculator</a>.
 
 
 **Installation**
